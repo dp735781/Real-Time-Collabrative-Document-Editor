@@ -52,3 +52,5 @@ Team collaboration on documents
 Online note-taking apps
 
 Code or content co-editing platforms
+#OUTPUT
+<img width="1316" height="489" alt="Image" src="https://github.com/user-attachments/assets/5c5422ef-27f0-4487-8686-8f9a8e808865" />
